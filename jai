@@ -64,3 +64,4 @@ with col3:
 if send:
     response = mychat.send_message(question)
     response_placeholder.write(response.text)
+
